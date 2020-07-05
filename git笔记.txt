@@ -58,4 +58,7 @@ git remote -v //查看远程分支
 分支开发时，master发生改变
 git rebase master  //将master分支衍合到当前分支
 
+--
+git push origin 本地分支：远程分支  //创建、推送、关联远程分支
+git pull origin 本地分支：远程分支  //创建、拉取、关联远程分支
 
