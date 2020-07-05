@@ -40,6 +40,7 @@ git mv a.php abc.php //将a.php修改为abc.php,并进入暂存区（存在大�
 --
 分支：
 git branch  //查看分支
+git branch -a  //查看所有分支
 git branch xxx  //创建分支xxx
 git branch --merged //查看合并分支
 git branch --no-merged //查看未合并分支
