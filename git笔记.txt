@@ -63,4 +63,5 @@ git remote add origin(别名） 远程url  //关联远程仓库
 git push -u origin master  //推送远程仓库
 git push origin 本地分支：远程分支  //创建、推送、关联远程分支
 git pull origin 本地分支：远程分支  //创建、拉取、关联远程分支
+git push origin --delete 分支名  //删除远程分支
 
